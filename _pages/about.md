@@ -1,3 +1,11 @@
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
+
 I'm a third year undergraduate student from [School of Electronic and Information Engineering](https://seie.hit.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/). My research interest includes computer vision, indoor localization, machine learning, and SLAM.
 
 I am very fortunate to be advised by [Prof. LinMa](https://homepage.hit.edu.cn/malin) of TIB Lab from [School of Electronic and Information Engineering](https://seie.hit.edu.cn/), Harbin Institute of Technology.
